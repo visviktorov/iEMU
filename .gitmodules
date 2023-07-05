@@ -1,0 +1,9 @@
+[submodule "lzfse"]
+	path = lzfse
+	url = https://github.com/lzfse/lzfse.git
+[submodule "qemu-t8030"]
+	path = qemu-t8030
+	url = https://github.com/TrungNguyen1909/qemu-t8030.git
+[submodule "qemu-t8030-tools"]
+	path = qemu-t8030-tools
+	url = https://github.com/TrungNguyen1909/qemu-t8030-tools.git
